@@ -84,7 +84,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-                    <mainClass>com.lucas.mvp_financas.MvpFinancasApplication</mainClass>
+                    <mainClass>com.lucas.mvp_financas.MainApplication</mainClass>
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
